@@ -1,4 +1,4 @@
-# ralali_backend
+# Simple API Go
 Cake Store RESTFul
 
 Example Request & Response POSTMANT
